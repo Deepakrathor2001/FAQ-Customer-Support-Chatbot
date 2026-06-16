@@ -1,6 +1,6 @@
 # Multi-Domain RAG Customer Support Chatbot
 
-Developed an AI-powered Customer Support Chatbot designed for e-commerce platforms and food delivery applications. 
+Developed an FAQ'S Customer Support Chatbot designed for e-commerce platforms and food delivery applications. 
 The chatbot integrates with databases and APIs to provide real-time assistance for customer queries related to order status, live tracking, cancellations, payment issues, product availability, pricing, discounts, delivery estimates, and other support-related requests. 
 By leveraging Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs), the system delivers accurate, context-aware, and conversational responses, enhancing customer experience while reducing manual support workload.
 
