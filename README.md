@@ -38,25 +38,26 @@ The chatbot can answer questions from multiple domains, including:
 
 ## Tech Stack
 
-### Programming Language
+# Programming Language
 
 * Python
 
-### Frontend
+- Frontend
 
 * Streamlit
 
-### Large Language Model
+# Large Language Model
 
 Retrieval-Augmented Generation (RAG)
+
 LLM API'S
 
-### Retrieval System
+# Retrieval System
 
 * Custom TF-IDF Engine
 * Cosine Similarity Search
 
-### Data Processing
+# Data Processing
 
 * JSON
 * CSV
@@ -121,19 +122,19 @@ multi-domain-rag-chatbot/
 
 ## Key Components
 
-- Knowledge Base Builder
+# Knowledge Base Builder
 
 The application loads data from multiple JSON, CSV, and text-based datasets and converts them into a unified knowledge base structure.
 
-- Retrieval Engine
+# Retrieval Engine
 
 A custom retrieval system calculates TF-IDF vectors and ranks documents using cosine similarity to identify the most relevant information for a user query.
 
-- Prompt Construction
+# Prompt Construction
 
 Retrieved information is transformed into structured context and injected into the Claude system prompt.
 
-- Response Generation
+# Response Generation
 
 Claude generates responses using only the retrieved information, helping reduce hallucinations and improve answer accuracy.
 
